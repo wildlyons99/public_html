@@ -1,14 +1,5 @@
 {
-  "hosting": {
-    
-      "redirects": [
-        {
-          "source": "/",
-          "destination": "https://www.tomflyons.com/",
-          "type": 301
-        }
-      ],
-    
+  "hosting": {    
     "public": ".",
     "ignore": [
       "firebase.json",
