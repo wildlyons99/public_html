@@ -64,3 +64,16 @@ node_modules/
 
 # dotenv environment variables file
 .env
+
+# vscode stuff
+.vscode
+
+# more firebase
+.firebaserc
+
+.json
+
+# this file
+.gitignore
+
+
